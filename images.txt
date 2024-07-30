@@ -7,5 +7,5 @@
 
 # Customize
 # postgis/postgis:13-3.4
-docker.osgeo.org/geoserver:2.25.1
+docker.osgeo.org/geoserver:2.25.2
 
