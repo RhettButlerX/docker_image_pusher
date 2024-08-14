@@ -8,5 +8,4 @@
 # Customize
 # postgis/postgis:13-3.4
 # docker.osgeo.org/geoserver:2.25.2
-elasticsearch:7.17.23
-
+elasticsearch:8.15.0
