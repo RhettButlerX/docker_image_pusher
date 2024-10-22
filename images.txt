@@ -10,5 +10,6 @@
 # docker.osgeo.org/geoserver:2.25.2
 # elasticsearch:8.15.0
 # nginx:alpine
-gitlab/gitlab-ce:16.11.10-ce.0
-gitlab/gitlab-ce:17.3.3-ce.0
+# gitlab/gitlab-ce:16.11.10-ce.0
+# gitlab/gitlab-ce:17.3.3-ce.0
+nacos/nacos-server:2.1.0
